@@ -1,0 +1,19 @@
+{
+  "name": "gh-profile",
+  "version": "0.0.1",
+  "description": "view github profiles in a cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joshhartigan/gh-profile"
+  },
+  "author": "Josh Hartigan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joshhartigan/gh-profile/issues"
+  },
+  "homepage": "https://github.com/joshhartigan/gh-profile"
+}
