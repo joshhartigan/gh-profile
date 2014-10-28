@@ -9,7 +9,7 @@ _(_/__/ (__/_)__/ (__(_/_//__/__(/__(/_
 
 ┌───────────────────────────────────────────────────────────────────┐
 │ usage example:                                                          │
-│     $ gh-profile joshhartigan                                           │
+│     $ ghprofile joshhartigan                                           │
 │                                                                         │
 │     @joshhartigan has pushed 669 this year                              │
 │     their longest streak lasted 38 days                                 │

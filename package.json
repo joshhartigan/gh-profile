@@ -6,6 +6,9 @@
   "scripts": {
     "test": "node test.js"
   },
+  "bin": {
+    "ghprofile": "index.js"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/joshhartigan/gh-profile"
