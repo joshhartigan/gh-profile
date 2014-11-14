@@ -1,6 +1,6 @@
 {
   "name": "gh-profile",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "view github profiles in a cli",
   "main": "index.js",
   "scripts": {
