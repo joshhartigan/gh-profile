@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/joshhartigan/gh-profile/issues"
   },
-  "homepage": "https://github.com/joshhartigan/gh-profile"
+  "homepage": "https://github.com/joshhartigan/gh-profile",
+  "dependencies": {
+    "cheerio": "^0.18.0",
+    "request": "^2.48.0"
+  }
 }
